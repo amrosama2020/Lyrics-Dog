@@ -2,3 +2,4 @@ Lyrics Dog
 Search engine API inspired by "lrcShow-X" ubuntu application.
 Currently uses only two search sites: evil_lyrics and lyrdb
 Other sites can be added easily.
+database sql file is called "lyricsdog.sql". sorry Im too lazy rightnow to add the database structure to cakephp config
